@@ -195,7 +195,7 @@ class Frame3(ttk.Frame):
                     self.e.grid(row=i + 4, column=j)
         except BaseException as err:
             print(f"Unexpected {err=}, {type(err)=}")
-            print("no data to show")
+            print("no csv_files to show")
 
     def deleteTable(self, app):
         wig = self.grid_slaves()
@@ -219,3 +219,5 @@ class Frame4(ttk.Frame):
                                 command=lambda: app.inputs.controlButton())
         self.button.pack(side=tk.BOTTOM)
         return
+
+
