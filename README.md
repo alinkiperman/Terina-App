@@ -8,8 +8,7 @@ Patient information is synthetic, and the project is intended solely as a clinic
 
 ## Dataset
 
-[OCT and Eye Fundus Dataset]
-(https://github.com/Traslational-Visual-Health-Laboratory/OCT-AND-EYE-FUNDUS-DATASET)
+[OCT and Eye Fundus Dataset](https://github.com/Traslational-Visual-Health-Laboratory/OCT-AND-EYE-FUNDUS-DATASET)
 
 The dataset is used for educational and research purposes. All imaging data and medical labels belong to the original dataset authors.
 
